@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589238912161.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DFDA5CC3",
+    "lastKnownWriteTime" : 1589239174,
+    "last_content_update" : 1589239174594,
+    "path" : "~/models/emep/R/find_ef.R",
+    "project_path" : "R/find_ef.R",
+    "properties" : {
+        "cursorPosition" : "14,26",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

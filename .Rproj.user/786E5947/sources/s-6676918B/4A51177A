@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589241812098.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4A51177A",
+    "lastKnownWriteTime" : 1584484846,
+    "last_content_update" : 1584484846,
+    "path" : "~/models/vein/R/emis_order.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "79,39",
+        "scrollLine" : "62"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

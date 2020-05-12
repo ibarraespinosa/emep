@@ -1,0 +1,22 @@
+Package: emep
+Type: Package
+Title: EMEP EEA Emission factors data-base
+Version: 0.1.0
+Date: 2020-05-11
+Authors@R: c( 
+  person(given = "Sergio", family = "Ibarra-Espinosa",
+         role = c("aut", "cre"),
+         email = "sergio.ibarra@usp.br",
+         comment = c(ORCID = "0000-0002-3162-1905"))) 
+Description: Access to the EMEP/EEA emission factors Tier 2 data.base.
+    This data-base includes all the emission factors which includes all 
+    considered sources. I will include methods to process emissions soon.
+License: MIT + file LICENSE
+URL: https://gitlab.com/ibarraespinosa/emepeea
+BugReports: https://gitlab.com/ibarraespinosa/emepeea/-/issues
+LazyData: no
+Depends: R (>= 3.5.0)
+Suggests: knitr, rmarkdown, testthat  
+RoxygenNote: 7.0.2
+Encoding: UTF-8
+Packaged: 2020-05-11

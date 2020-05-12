@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589237214783.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8FF32D6F",
+    "lastKnownWriteTime" : 1589242842,
+    "last_content_update" : 1589242842702,
+    "path" : "~/models/emep/R/ef.R",
+    "project_path" : "R/ef.R",
+    "properties" : {
+        "cursorPosition" : "87,45",
+        "scrollLine" : "44"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,17 @@
+citHeader("To cite emepeea in publications use at least the first, if not both:")
+
+citEntry(entry = "article",
+   title          = "EMEP/EEA air pollutant emission inventory guidebook 201",
+   journal		    = "European Environmental Agency",
+   author         = personList(person("European Environmental Agency")),
+   year           = "2019",
+   url            = "https://www.eea.europa.eu/publications/emep-eea-guidebook-2019",
+   doi            = "10.2800/293657",
+
+   textVersion  =
+   paste("EMEP/EEA. 2019. EMEP/EEA air pollutant emission inventory guidebook 2019, doi:10.2800/293657, ISBN 978-92-9480-098-5ISSN 1977-8449")
+)
+
+citation(auto = meta)
+
+citFooter("Thanks")

@@ -1,0 +1,2 @@
+sysdata <- read.table("data.tsv", h = T, sep = "\t", stringsAsFactors = FALSE)
+save(sysdata, file = "R/sysdata.rda", compress = "xz")
